@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1514140574 source:d:\maisha\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1462159876 source:d:\mousedemo.cpp
+	"iGraphics.h"
+
+1462108168 d:\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1527874991 source:d:\imain.cpp
+	"iGraphics.h"
+	<math.h>
+	<time.h>
+
+1528111229 source:d:\textinputdemo.cpp
+	"iGraphics.h"
+
